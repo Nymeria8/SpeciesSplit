@@ -2,7 +2,7 @@
 
 This set of scripts based on [Fernandez et al 2012](http://www.ncbi.nlm.nih.gov/pubmed/21726390) can be used to separate sequences of two known species based on homologies, using blast outfmt=1.
 
-![Alt text](images/squeme.jpg)
+![Alt text](images/squeme.png)
 
 
 ##Usage:
